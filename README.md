@@ -1,2 +1,2 @@
-# gugyeogna
+# Minz
  
