@@ -1,2 +1,2 @@
-# minz
+# Minz
  
